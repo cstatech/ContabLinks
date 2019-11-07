@@ -44,7 +44,7 @@ Até 5, de Novembro de 2019, diversos problemas ainda persistem já à algum tem
 
 Este "procedimento" é exclusivo sobre problemas técnico relacionados à navegação e preenchimento de campos. Não está relacionado com outro problemas do sistema que apresentam erro de falta de dados, imposibilidade de localizar CNPJs, etc.
 
-Ainda não consegui terminar de mapear o problema e achar um "contorno" mais simplificado, para este caso a sugestão é:
+Ainda não consegui terminar de mapear o problema e achar um "contorno" mais simplificado, então, por enquanto a solução para este caso a sugestão é:
 
 1. Use o Internet Explorer
 
