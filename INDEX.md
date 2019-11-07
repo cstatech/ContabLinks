@@ -8,8 +8,17 @@ Para quem quiser contribuir, basta clicar no "gatinho verde" no canto superior d
 
 ## Sites Federais
 
-* [Receita Federal](https://receita.economia.gov.br)
-* [Receita Federal - Centro Vitual de Atendimento (eCAC)](https://cav.receita.fazenda.gov.br) (ie)  (IE) (Melhor com: IE - Alguns serviços requerem: Java - Alguns serviços requerem: Certificado)
+| Site                                                         |  IE  |  FF  |  GC  | Java | Cert | Obs  |
+| :----------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | ---- |
+| [Receita Federal](https://receita.economia.gov.br)           |  R   |  PF  |  PF  |  E   |  E   |      |
+| [Receita Federal - Centro Vitual de Atendimento (eCAC)](https://cav.receita.fazenda.gov.br) |  R   |  PF  |  PF  |  E   |  E   |      |
+|                                                              |      |      |      |      |      |      |
+
+**R** = **R**ecomendado
+
+**PF** = **P**arcialmente **F**uncional, alguns endereços específicos ainda tem incompatibilidades
+
+**E** = Para alguns endereços **E**specíficos, é necessário/obrigatório 
 
 ## Sites Estaduais
 
@@ -23,6 +32,38 @@ Para quem quiser contribuir, basta clicar no "gatinho verde" no canto superior d
 ## Sites Municipais
 
 ### São Paulo
+
+## Tecnologias
+
+### Sistemas Operacionais
+É o principal sistemas operacionais em uso como estação de trabalho. Mais de 85% dos usuários no mundo utilizam e no Brasil, segundo uma pesquisa de 2017, este número era pouco mais de  96%.
+
+#### Microsoft Windows
+#### Apple Mac OS
+#### Linux
+#### Apple iOS
+#### Android
+
+
+### Programas Básicos
+
+#### Navegador (Browser)
+
+##### Microsoft Internet Explorer
+
+Um dos primeiro navegadores do mundo que se manteve como principal meio de acesso à Internet,  evoluiu com muitas tecnologias proprietárias que ajudavam desenvolvedores a desenvolver mais rápido ou ter mais poder para fazer coisas que tecnologias mais abertas não permitiam. Alem disto, por ser um produto da Microsoft, era possível ter um suporte profisional. Acredito que por este dois principais motivos, o governo Brasileiro adotou este padrão. Porém, com a melhoria dos padrões mais abertos, apoiada por diversas outras grandes empresa, incluindo a Microsoft, o Internet Explorer ficou para tras, e a Microsoft parou de investir nele, inclusive criando um novo navegador, o Microsoft Edge. Com isto, sites e sistemas Web que dependiam da tecnologia, tiveram que migrar para novas tecnologias. E o governo Brasileiro só começou este trabalho à pouco tempo, e com pouco foco.
+
+##### Microsoft Edge
+
+##### Google Chrome
+
+##### Mozilla Firefox
+
+##### Apple Safari
+
+##### Outros
+
+Existem diversos outro navegadores que são bem menos utilizados, mas tem seu público. Alguns atendem praticamente todas as necessidades, com excessão de alguns sites específicos, devido à algumas tecnologias específicas. para uso em sites do governo Brasileiro, enquanto não estiverem 100% atualizados, não é recomendado o uso destes navegadores.
 
 
 
