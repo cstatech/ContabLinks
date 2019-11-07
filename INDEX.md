@@ -36,11 +36,13 @@ Isto por que estão modernizando aos poucos e em parte, então, vi casos como o 
 
 ### JUCESP
 
-O governo de forma geral, está em processo de modernização dos sites e sistemas online. Infelizmente, não acertaram ainda o processo de atualização e está impactando em problemas por diversos motivos, mas principalemente por incompatibilidade do navegador exigido anteriormente e os novos navegadores. Se alguém tiver interesse em saber mais dos motivos, entre em contato para pedir "adições", conforme orientação no inicio deste documento.
+O governo de forma geral, está em processo de modernização dos sites e sistemas online. Infelizmente, não acertaram ainda o processo de atualização e está impactando em problemas por diversos motivos, mas principalmente por incompatibilidade do navegador exigido anteriormente e os novos navegadores. Se alguém tiver interesse em saber mais dos motivos, entre em contato para pedir "adições", conforme orientação no inicio deste documento.
 
 ### JUCESP - VRE
 
-Hoje, 5, de Novembro de 2019, diversos problemas ainda persistem já à algum tempo e um deles é a utilização do Via Rápida.
+Até 5, de Novembro de 2019, diversos problemas ainda persistem já à algum tempo e um deles é a utilização do Via Rápida.
+
+Este "procedimento" é exclusivo sobre problemas técnico relacionados à navegação e preenchimento de campos. Não está relacionado com outro problemas do sistema que apresentam erro de falta de dados, imposibilidade de localizar CNPJs, etc.
 
 Ainda não consegui terminar de mapear o problema e achar um "contorno" mais simplificado, para este caso a sugestão é:
 
