@@ -39,7 +39,7 @@ Para quem quiser contribuir, basta clicar no "gatinho verde" no canto superior d
 É o principal sistemas operacionais em uso como estação de trabalho. Mais de 85% dos usuários no mundo utilizam e no Brasil, segundo uma pesquisa de 2017, este número era pouco mais de  96%.
 
 #### Microsoft Windows
-#### Apple Mac OS
+#### Apple MacOS
 #### Linux
 #### Apple iOS
 #### Android
@@ -51,7 +51,7 @@ Para quem quiser contribuir, basta clicar no "gatinho verde" no canto superior d
 
 ##### Microsoft Internet Explorer
 
-Um dos primeiro navegadores do mundo que se manteve como principal meio de acesso à Internet,  evoluiu com muitas tecnologias proprietárias que ajudavam desenvolvedores a desenvolver mais rápido ou ter mais poder para fazer coisas que tecnologias mais abertas não permitiam. Alem disto, por ser um produto da Microsoft, era possível ter um suporte profisional. Acredito que por este dois principais motivos, o governo Brasileiro adotou este padrão. Porém, com a melhoria dos padrões mais abertos, apoiada por diversas outras grandes empresa, incluindo a Microsoft, o Internet Explorer ficou para tras, e a Microsoft parou de investir nele, inclusive criando um novo navegador, o Microsoft Edge. Com isto, sites e sistemas Web que dependiam da tecnologia, tiveram que migrar para novas tecnologias. E o governo Brasileiro só começou este trabalho à pouco tempo, e com pouco foco.
+Um dos primeiro navegadores do mundo que se manteve como principal meio de acesso à Internet,  evoluiu com muitas tecnologias proprietárias que ajudavam desenvolvedores a desenvolver mais rápido ou ter mais poder para fazer coisas que tecnologias mais abertas não permitiam. Alem disto, por ser um produto da Microsoft, era possível ter um suporte profissional. Acredito que por este dois principais motivos, o governo Brasileiro adotou este padrão. Porém, com a melhoria dos padrões mais abertos, apoiada por diversas outras grandes empresa, incluindo a Microsoft, o Internet Explorer ficou para tras, e a Microsoft parou de investir nele, inclusive criando um novo navegador, o Microsoft Edge. Com isto, sites e sistemas Web que dependiam da tecnologia, tiveram que migrar para novas tecnologias. E o governo Brasileiro só começou este trabalho à pouco tempo, e com pouco foco.
 
 ##### Microsoft Edge
 
@@ -63,7 +63,7 @@ Um dos primeiro navegadores do mundo que se manteve como principal meio de acess
 
 ##### Outros
 
-Existem diversos outro navegadores que são bem menos utilizados, mas tem seu público. Alguns atendem praticamente todas as necessidades, com excessão de alguns sites específicos, devido à algumas tecnologias específicas. para uso em sites do governo Brasileiro, enquanto não estiverem 100% atualizados, não é recomendado o uso destes navegadores.
+Existem diversos outro navegadores que são bem menos utilizados, mas tem seu público. Alguns atendem praticamente todas as necessidades, com exceção de alguns sites específicos, devido à algumas tecnologias específicas. para uso em sites do governo Brasileiro, enquanto não estiverem 100% atualizados, não é recomendado o uso destes navegadores.
 
 
 
@@ -83,7 +83,7 @@ O governo de forma geral, está em processo de modernização dos sites e sistem
 
 Até 5, de Novembro de 2019, diversos problemas ainda persistem já à algum tempo e um deles é a utilização do Via Rápida.
 
-Este "procedimento" é exclusivo sobre problemas técnico relacionados à navegação e preenchimento de campos. Não está relacionado com outro problemas do sistema que apresentam erro de falta de dados, imposibilidade de localizar CNPJs, etc.
+Este "procedimento" é exclusivo sobre problemas técnico relacionados à navegação e preenchimento de campos. Não está relacionado com outro problemas do sistema que apresentam erro de falta de dados, impossibilidade de localizar CNPJs, etc.
 
 Ainda não consegui terminar de mapear o problema e achar um "contorno" mais simplificado, então, por enquanto a solução para este caso a sugestão é:
 
